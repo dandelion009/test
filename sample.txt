@@ -1,14 +1,2 @@
 sample
-feature
-hog
-2013
 
-
-release
-
-conf
-
-hoge
-
-
-make message-tag
